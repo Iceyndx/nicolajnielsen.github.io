@@ -6152,7 +6152,7 @@ button.mfp-close:hover{
 .portfolio-item .portfolio-box a{
     position:absolute;
     top:0;
-    left:10;
+    left:0;
     z-index:2;
     display:block;
     width:100%;
